@@ -5,5 +5,15 @@ nav {
   font-family: sans-serif;
   color: rgb(1, 5, 8);
   box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+  background-color: rgb(149, 255, 172);
+}
+
+.M {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+  color: rgb(9, 5, 255);
+  background-color: rgb(234, 250, 16);
 }
 

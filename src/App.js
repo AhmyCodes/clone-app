@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from 'react'
+import React from 'react'
 import Nav from './components/nav' 
 import Movie from './components/Movie'
 
